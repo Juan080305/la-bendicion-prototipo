@@ -37,7 +37,7 @@ Cuenta de prueba: `cliente@labendicion.cr` / `bendicion123`
 | Sin conexión | HU 30 |
 | Diseño adaptable | HU 35 |
 
-Las capturas de cada pantalla están en la carpeta `capturas`.
+Las capturas de cada pantalla están en la carpeta `capturas`. En `capturas/00-historias-de-usuario.png` está la lista de las 42 historias con la pantalla donde se ve cada una.
 
 ## Integrantes
 
